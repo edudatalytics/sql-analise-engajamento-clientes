@@ -9,7 +9,6 @@
 
 **Pipeline ETL completa para análise estratégica de comportamento e engajamento de clientes**
 
-[📂 Ver Código SQL](sql/ETL_PROJETO.sql) • [🎯 Sobre o Projeto](#contexto-e-motivação) • [📈 Métricas](#principais-métricas-calculadas)
 
 </div>
 
